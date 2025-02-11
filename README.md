@@ -7,7 +7,7 @@ In this financial analysis, following financial concepts were explored:
 * Use of “Goal Seek” and “Solver” features to see how much we need to sell to reach our financial goals.
 
 ![image](https://github.com/user-attachments/assets/915416ea-01fc-46cd-9d75-99dbf9d84236)
-![image](https://github.com/user-attachments/assets/915416ea-01fc-46cd-9d75-99dbf9d84236)
+
 
 ## Business Problem Scenarios, Objectives and KPIs:
 The finance manager in this retail company would like to explore effects of price changes and forecasts of revenue.  
@@ -58,7 +58,7 @@ Used Advanced feature in MS-Excel ( Data  What-If-Analysis  Goal Seek ). G
 Used Advanced feature in MS-Excel  (‘Solver’ Add-in).
 
 ![image](https://github.com/user-attachments/assets/40aa615e-3650-4638-8ac6-cca42cc135b3)
-![image](https://github.com/user-attachments/assets/40aa615e-3650-4638-8ac6-cca42cc135b3)
+
 
 
 ### For Sensitivity Analysis:
@@ -70,7 +70,7 @@ In Sensitivity table…
 * Used Advanced feature in MS-Excel (Data  What-If-Analysis  Data Table). Linked this to Unit Sold and Price per Unit to populate sensitivity table. Now, this sensitivity table show us how Net Income is changing (or sensitive to) based on selected Quantity Sold and Price per Unit values.
 * Sensitivity analysis is very common in stock market’s share price analysis i.e. share price movement and how it might be affected by different growth rates, different discount rates and other factors that that.
 ![image](https://github.com/user-attachments/assets/790b7517-2e36-460d-a12f-db1c73f37c74)
-![image](https://github.com/user-attachments/assets/790b7517-2e36-460d-a12f-db1c73f37c74)
+
 
 ### For Scenario Analysis:
 This is most useful for forecasting. For example, our startup business is very new to we really don’t know what our revenues going to look like in future, what our costs going to look like in future. These questions can be answered by scenario analysis.
@@ -81,13 +81,13 @@ This is most useful for forecasting. For example, our startup business is very n
 * Used Group and Ungroup rows in Excel sheet to show or hide few rows if our Excel sheet is too big to show data on screen.
 
 ![image](https://github.com/user-attachments/assets/6f551d5a-538e-42b2-b160-fafb5540d366)
-![image](https://github.com/user-attachments/assets/6f551d5a-538e-42b2-b160-fafb5540d366)
+
 
 ![image](https://github.com/user-attachments/assets/680060d3-342f-4cef-9cf3-caf86baa09e6)
-![image](https://github.com/user-attachments/assets/680060d3-342f-4cef-9cf3-caf86baa09e6)
+
 
 ![image](https://github.com/user-attachments/assets/65368450-732b-42c9-a0b8-c9ddef351c87)
-![image](https://github.com/user-attachments/assets/65368450-732b-42c9-a0b8-c9ddef351c87)
+
 
 
 ### Portfolio Project Documentation (Final Conclusion):
