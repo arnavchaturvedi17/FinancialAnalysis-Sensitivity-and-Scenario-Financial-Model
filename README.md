@@ -1,4 +1,4 @@
-# Financial Analysis: Sensitivity & Scenario Analysis Financial-Model
+# Financial Analysis: Sensitivity & Scenario Analysis (Financial Modelling)
 ## Portfolio Project Overview:
 A new start-up retail business is seeking to analyze its financials to explore effects of price changes and forecasts of revenue. As a financial analyst, I created this sensitivity & scenario financial model for this retail company. 
 In this financial analysis, following financial concepts were explored:
